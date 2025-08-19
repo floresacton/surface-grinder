@@ -8,9 +8,27 @@
   - hgh20 for now (maybe hgh15 ok?)
   - Best to use A500 steel for structural (better than A513)
   - 0.12in or 1/8in thick tubing is best price
+  - 1 inch tubing for frame (480x980mm)
 
 * Cost estimate
-  - 120$ base steel
-  - 30$ base epoxy granite
-  - 100$ base rails
+  - 5m 1x3 tubing = 130$
+  - ^epoxy granite = 40$
+  - 4m 1x1 tubing = 70$
+  - ^epoxy granite = 20$
+  - 3.5m 2x2 tubing = 100$
+  - ^epoxy granite = 50$
+  - Y rails + ballscrews = 100$
+  - Z rails + ballscrews = 125$
+  - X rails = 60$
+  - X ballscrews = 100$
+  - Grinding wheel = 20$
+  - 8308 eaglepower = 100$
+  - water pump = 25$
+  - 6 steppers = 100$
+  - inverter = 25$
+  - stepper drivers = 100$
+  - main controller = 50$
+  - fasteners (200 M5x65) = 85$
+  - power supply = 25$
+  - TOTAL : 1325$
 
